@@ -1,0 +1,91 @@
+body {
+	background-color: gray;
+	width: 960px;
+	font-family: 'Arial', 'monteserrat', sans-serif;
+	text-align: center;
+	margin: 0px;
+	margin-left: 90px;
+	padding: 0px;
+}
+p {
+	font-size: 18px;
+	margin: 0px;
+}
+h1 {
+	font-size: 20px;
+	display: inline;
+}
+h2 {
+	font-size: 20px;
+	display: inline;
+}
+h3 {
+	font-size: 20px;
+	display: inline;
+}
+header {
+	background-color: white;
+	color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+nav {
+	background-color: white;
+	color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+}
+section {
+	background-color: white;
+	color: gray;
+	width: 540px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	float: left;
+
+}
+article {
+	background-color: gray;
+	color: white;
+	width: 500px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 20px;
+}
+.headerbox {
+	background-color: white;
+	color: gray;
+	width: 450px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 25px;
+	margin-top: 20px;	
+}
+.paragraphbox {
+	background-color: white;
+	color:gray;
+	width: 450px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 25px;
+	margin-top: 20px;
+}
+aside {
+	background-color: white;
+	color: gray;
+	padding-top: 30px;
+	height: 250px;
+	width: 400px;
+	float: right;
+	margin-bottom: 20px;
+}
+footer {
+	background-color: white;
+	color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	clear: both;
+}
